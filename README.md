@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ✨  @melaniesigrid  ✨
 - 👀 I’m interested in web development, and UX/UI Design.
-- 🌱 I’m currently learning Git and JavaScript.
+- 🌱 I’m currently learning JavaScript, and taking a UX/UI Design course.
 - 💞️ I’m looking to collaborate on any web development projects, I'm a curious human being and I love learning new things.
 - 📫 How to reach me: melaniesigrid@protonmail.com
 
