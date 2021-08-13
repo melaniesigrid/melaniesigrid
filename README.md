@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, and UX/UI Design.
 - 🌱 I’m currently learning JavaScript, and taking a UX/UI Design course.
 - 💞️ I’m looking to collaborate on any web development projects, I'm a curious human being and I love learning new things.
-- 📫 How to reach me: melaniesigrid@protonmail.com
+- 📫 How to reach me: melaniesigrid@protonmail.com Twitter: @SiriMoon11
 
 <!---
 melaniesigrid/melaniesigrid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
