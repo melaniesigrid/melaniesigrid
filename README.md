@@ -1,6 +1,7 @@
 - 👋 Hi, I’m ✨  @melaniesigrid  ✨
 - 👀 I’m a Front-End Developer with a special interest in UX/UI Design.
-- 🌱 I’m currently learning JavaScript, and taking a UX/UI Design course.
+- 🌱 I’m currently focusing on increasing my knowledge on JavaScript, SEO optimization, and taking Google's UX/UI Design course. 
+- 🔧 Technologies I use: BootStrap, SASS, WebPack, JavaScript, Python, Object Pascal, Visual Basic.
 - 💜 Microverse Student starting October 2021
 - 💞️ I’m looking to collaborate on any web development projects, I'm a curious human being and I love learning new things.
 - 📫 How to reach me: melaniesigrid@protonmail.com Twitter: @SiriMoon11
