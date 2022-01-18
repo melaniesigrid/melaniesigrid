@@ -20,7 +20,7 @@ const melanie = {
   pronouns: 'she' | 'her',
   code: ['JavaScript', 'Python', 'HTML', 'CSS', 'Object Pascal', 'Visual Basic'],
   frameworks: ['Bootstrap', 'SASS'],
-  tools: ['Git', WebPack],
+  tools: ['Git', 'WebPack'],
   comingSoon: ['React', 'Ruby', 'Ruby on Rails', 'Solidity'],
   techCommunities: {
                       mentor: 'Microverse'
