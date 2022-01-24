@@ -21,7 +21,7 @@ const melanie = {
 
   code: {
            current: ['JavaScript','HTML', 'CSS'],
-           past: [Python, Object Pascal, Visual Basic],
+           past: ['Python', 'Object Pascal', 'Visual Basic'],
          },
   tools: {
            tools: ['Git', 'WebPack'],
