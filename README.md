@@ -18,14 +18,19 @@
 ```javascript
 const melanie = {
   pronouns: 'she' | 'her',
-  code: ['JavaScript', 'Python', 'HTML', 'CSS', 'Object Pascal', 'Visual Basic'],
-  frameworks: ['Bootstrap', 'SASS'],
-  tools: ['Git', 'WebPack'],
+  mentor: 'Microverse',
+
+  code: {
+           current: ['JavaScript','HTML', 'CSS'],
+           past: [Python, Object Pascal, Visual Basic],
+         },
+  tools: {
+            tools: ['Git', 'WebPack'],
+            frameworks: ['Bootstrap', 'SASS', Jest],
+          },
+          
   comingSoon: ['React', 'Ruby', 'Ruby on Rails', 'Solidity'],
-  techCommunities: {
-                      mentor: 'Microverse'
-                    },
- challenge: 'I am doing the #100DaysOfCode challenge focused on Javascript, React, Ruby and Ruby on Rails'
+  challenge: 'I am doing the #100DaysOfCode challenge focused on Javascript, React, Ruby and Ruby on Rails'
 }
 ```
 
