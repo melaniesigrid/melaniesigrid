@@ -3,7 +3,6 @@
 <ul>
   <li>👀 I’m a Front-End Developer going Full-Stack, with a special interest in UX/UI Design.</li>
   <li>🌱 I’m currently focusing on increasing my knowledge on JavaScript, SEO optimization, and taking Google's UX/UI Design course.</li>
-  <li>🔧 Technologies I use: Bootstrap, SASS, WebPack, JavaScript, Python, Object Pascal, Visual Basic.</li>
   <li>💜 Microverse Student starting October 2021</li>
   <li>💞️ I’m looking to collaborate on any web development projects, I'm a curious human being and I love learning new things.</li>
   <li>📫 How to reach me: melaniesigrid@protonmail.com Twitter: @SiriMoon11</li>
@@ -25,8 +24,8 @@ const melanie = {
            past: [Python, Object Pascal, Visual Basic],
          },
   tools: {
-            tools: ['Git', 'WebPack'],
-            frameworks: ['Bootstrap', 'SASS', Jest],
+           tools: ['Git', 'WebPack'],
+           frameworks: ['Bootstrap', 'SASS', Jest],
           },
           
   comingSoon: ['React', 'Ruby', 'Ruby on Rails', 'Solidity'],
