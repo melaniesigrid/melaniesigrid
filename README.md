@@ -18,7 +18,7 @@
 
 ```javascript
 const melanie = {
-  pronouns: 'she' || 'her' && 'fae' || 'faers',
+  pronouns: 'she' || 'her' && 'fae' || 'faer',
   mentor: 'Microverse',
 
   code: {
