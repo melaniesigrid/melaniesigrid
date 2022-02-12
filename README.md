@@ -18,7 +18,7 @@
 
 ```javascript
 const melanie = {
-  pronouns: 'she' | 'her',
+  pronouns: 'she' || 'her' && 'fae' || 'faers',
   mentor: 'Microverse',
 
   code: {
@@ -27,10 +27,10 @@ const melanie = {
          },
   tools: {
            tools: ['Git', 'WebPack'],
-           frameworks: ['Bootstrap', 'SASS', 'Jest'],
+           frameworks: ['React', 'Bootstrap', 'SASS', 'Jest'],
           },
           
-  comingSoon: ['React', 'Ruby', 'Ruby on Rails', 'Solidity'],
+  comingSoon: ['Ruby', 'Ruby on Rails', 'Solidity'],
   challenge: 'I am doing the #100DaysOfCode challenge focused on Javascript, React, Ruby and Ruby on Rails'
 }
 ```
