@@ -12,7 +12,7 @@
   <a href="https://twitter.com/SiriMoon11"><img src="https://img.shields.io/twitter/follow/SiriMoon11?style=social"></a>
   <a href="https://github.com/melaniesigrid"><img src="https://img.shields.io/github/followers/melaniesigrid?label=follow&style=social"></a>
 </div>
-<a href="https://stackoverflow.com/users/15110783/melanie-sigrid?theme=hotdog"><img src="https://stackoverflow.com/users/flair/15110783.png" width="208" height="58" alt="profile for Melanie Sigrid at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Melanie Sigrid at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/15110783/melanie-sigrid"><img src="https://stackoverflow.com/users/flair/15110783.png?theme=hotdog" width="208" height="58" alt="profile for Melanie Sigrid at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Melanie Sigrid at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
