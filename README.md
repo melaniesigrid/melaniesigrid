@@ -35,6 +35,10 @@ const melanie = {
 }
 ```
 
+## Stats 📈
+
+[![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=melaniesigrid&show_icons=true&theme=synthwave)](https://github.com/melaniesigrid/github-readme-stats)
+
 ## 🛠️ My favorite languages and tools
 
 <p>
