@@ -39,6 +39,7 @@ const melanie = {
 
 [![Melanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=melaniesigrid&show_icons=true&theme=synthwave)](https://github.com/melaniesigrid/github-readme-stats)
 
+![](https://github.com/melaniesigrid/github_stats/blob/master/generated/languages.svg)
 ![](https://github.com/melaniesigrid/github_stats/blob/master/generated/overview.svg)
 ## 🛠️ My favorite languages and tools
 
