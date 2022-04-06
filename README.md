@@ -22,7 +22,7 @@ const melanie = {
   mentor: 'Microverse',
 
   code: {
-           current: ['JavaScript','HTML', 'CSS'],
+           current: ['JavaScript','HTML', 'CSS', 'Ruby'],
            past: ['Python', 'Object Pascal', 'Visual Basic'],
          },
   tools: {
@@ -30,7 +30,7 @@ const melanie = {
            frameworks: ['React', 'Redux', 'Bootstrap', 'SASS', 'Jest'],
           },
           
-  comingSoon: ['Ruby', 'Ruby on Rails', 'Solidity'],
+  comingSoon: ['Ruby on Rails', 'Solidity'],
   challenge: 'I am doing the #100DaysOfCode challenge focused on Javascript, React, Ruby and Ruby on Rails'
 }
 ```
