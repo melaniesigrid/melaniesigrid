@@ -19,7 +19,7 @@
 ```javascript
 const melanie = {
   pronouns: 'she' || 'her' && 'fae' || 'faer',
-  mentor: 'Microverse',
+  microverse: ['Mentor', 'Code Reviewer'],
 
   code: {
            current: ['JavaScript','HTML', 'CSS', 'Ruby'],
