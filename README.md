@@ -27,7 +27,7 @@ const MELANIE = {
          },
   tools: {
            tools: ['Git', 'WebPack'],
-           frameworks: ['React', 'Redux', 'Bootstrap', 'SASS'],
+           frameworks: ['React', 'Redux', 'i18next', 'Bootstrap', 'SASS'],
            testing: ['Jest', 'RSpec'],
           },
           
