@@ -63,7 +63,7 @@ const MELANIE = {
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
-<img src="https://media.giphy.com/media/qUIQfddFeDBIPRw2cW/giphy.gif" width="150"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/qUIQfddFeDBIPRw2cW/giphy.gif" width="150"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to get to know you better!</b> :)</em>
 
 
 ---
