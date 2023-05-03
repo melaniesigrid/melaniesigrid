@@ -1,8 +1,8 @@
 <h1> Hello World! :alien: <br> I’m ✨  @melaniesigrid  ✨ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/UBdm1xinbK65niyZ5i/giphy.gif" width="230">
 <ul>
-  <li>👀 I’m a Front-End Developer, with a special interest in UX/UI Design.</li>
-  <li>🌱 I’m currently focusing on increasing my knowledge on JavaScript, SQL, and SEO optimization.</li>
+  <li>👀 I’m a Front-End Developer, with a special interest in AI powered tools and UX/UI.</li>
+  <li>🌱 I’m currently focusing on increasing my knowledge on AI tools and prompt engineering.</li>
   <li>📈 Working in FinTech</li>
   <li>📫 How to reach me: melaniesigrid@protonmail.com Twitter: @SiriMoon11</li>
 </ul>
@@ -18,16 +18,16 @@
 ```javascript
 const MELANIE = {
   pronouns: 'she' || 'her' && 'fae' || 'faer',
-  wealthScope: 'Front-End Developer',
+  wealthScope: 'Software Developer',
   }
   
 
   code: {
-           current: ['JavaScript','HTML', 'CSS', 'Ruby'],
-           past: ['Python', 'Object Pascal', 'Visual Basic'],
+           current: ['JavaScript','HTML', 'CSS', 'Python', 'Ruby'],
+           past: ['Object Pascal', 'Visual Basic'],
          },
   tools: {
-           tools: ['Git', 'WebPack'],
+           tools: ['Git', 'WebPack', 'OpenAI API'],
            frameworks: ['React', 'Redux', 'Semantic UI', 'i18next', 'Bootstrap', 'SASS'],
            testing: ['Jest', 'RSpec'],
           },
