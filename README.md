@@ -4,7 +4,7 @@
   <li>👀 I’m a Front-End Developer, with a special interest in AI powered tools and UX/UI.</li>
   <li>🌱 I’m currently focusing on increasing my knowledge on AI tools and prompt engineering.</li>
   <li>📈 Working in FinTech</li>
-  <li>📫 How to reach me: melaniesigrid@protonmail.com Twitter: @SiriMoon11</li>
+  <li>📫 How to reach me: melaniesigrid@protonmail.com</li>
 </ul>
 
 <div width="100%" style=text-align: {center};>
