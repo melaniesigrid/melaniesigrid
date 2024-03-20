@@ -88,12 +88,7 @@ const MELANIE = {
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </center>
 
-### 😂 Random Dev Meme
-<center>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</center>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=melaniesigrid&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=melaniesigrid&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
