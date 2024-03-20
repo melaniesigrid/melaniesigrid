@@ -89,6 +89,8 @@ const MELANIE = {
 </center>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=melaniesigrid&label=Profile%20Views&icon=8&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=melaniesigrid&label=Profile%20Views&icon=8&pretty=false" />
+</a>
 
 
