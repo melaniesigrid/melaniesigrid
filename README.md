@@ -1,7 +1,7 @@
 <h1> Hello World! :alien: <br> I’m ✨  @melaniesigrid  ✨ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/UBdm1xinbK65niyZ5i/giphy.gif" width="230">
 <ul>
-  <li>👀 I’m a Front-End Developer, with a special interest in AI powered tools and UX/UI.</li>
+  <li>👀 Front-End Web Developer ready for an adventure</li>
   <li>🌱 I’m currently focusing on increasing my knowledge on AI tools and prompt engineering.</li>
   <li>📈 Working in FinTech</li>
   <li>📫 How to reach me: melaniesigrid@protonmail.com</li>
@@ -21,16 +21,19 @@ const MELANIE = {
   
 
   code: {
-           current: ['JavaScript','HTML', 'CSS', 'Python', 'Ruby'],
+           current: ['JavaScript','HTML', 'CSS', 'Python', 'Ruby',],
            past: ['Object Pascal', 'Visual Basic'],
          },
   tools: {
            tools: ['Git', 'WebPack', 'OpenAI API'],
-           frameworks: ['React', 'Redux', 'Semantic UI', 'i18next', 'Bootstrap', 'SASS'],
+           frameworks: ['React', 'Redux', 'Flutter', 'Semantic UI', 'i18next', 'Bootstrap', 'SASS'],
            testing: ['Jest', 'RSpec'],
           },
           
   comingSoon: ['Ruby on Rails', 'Solidity'],
+  funFacts: ['I have 3+ years of remote work experience with devs 
+    from all over the world', 
+    'My tiny Shih-Tzu dog is ready to woof at the right offer']
 }
 ```
 
@@ -77,6 +80,8 @@ const MELANIE = {
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 </p>
+
+<p>You can check out my portfolio <a href="https://melaniesigrid.github.io/portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
 <img src="https://media.giphy.com/media/qUIQfddFeDBIPRw2cW/giphy.gif" width="150"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to get to know you better!</b> :)</em>
 
