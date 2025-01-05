@@ -15,7 +15,7 @@
 
 ```javascript
 const MELANIE = {
-  pronouns: 'she' || 'her' && 'fae' || 'faer',
+  pronouns: 'she' || 'her',
   wealthScope: 'Software Developer',
   }
   
