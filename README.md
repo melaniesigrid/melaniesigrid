@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melaniesigrid)  <a href="https://github.com/melaniesigrid"><img src="https://img.shields.io/github/followers/melaniesigrid?label=follow&style=social"></a>
-
+[![Open Source Helpers](https://www.codetriage.com/brave/brave-browser/badges/users.svg)](https://www.codetriage.com/brave/brave-browser)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
