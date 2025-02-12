@@ -1,9 +1,8 @@
 <h1> Hello World! :alien: <br> I’m ✨  @melaniesigrid  ✨ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/UBdm1xinbK65niyZ5i/giphy.gif" width="230">
 <ul>
-  <li>👀 Front-End Web Developer ready for an adventure</li>
-  <li>🌱 I’m currently focusing on increasing my knowledge on AI tools and prompt engineering.</li>
-  <li>📈 Working in FinTech</li>
+  <li>👀 Software Developer at Falkon Technologies</li>
+  <li>🌱 I’m currently focusing on increasing my knowledge on React Native applications.</li>
   <li>📫 How to reach me: melaniesigrid@protonmail.com</li>
 </ul>
 
@@ -16,7 +15,7 @@
 ```javascript
 const MELANIE = {
   pronouns: 'she' || 'her',
-  wealthScope: 'Software Developer',
+  falkonTechnologies: 'Software Developer',
   }
   
 
@@ -26,7 +25,7 @@ const MELANIE = {
          },
   tools: {
            tools: ['Git', 'WebPack', 'OpenAI API'],
-           frameworks: ['React', 'Redux', 'Flutter', 'Semantic UI', 'i18next', 'Bootstrap', 'SASS'],
+           frameworks: ['React', 'ReactNative', 'Redux', 'Flutter', 'Semantic UI', 'i18next', 'Bootstrap', 'SASS'],
            testing: ['Jest', 'RSpec'],
           },
           
