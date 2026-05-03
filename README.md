@@ -1,7 +1,7 @@
 <h1> Hello World! :alien: <br> I’m ✨  @melaniesigrid  ✨ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/UBdm1xinbK65niyZ5i/giphy.gif" width="230">
 <ul>
-  <li>👀 Software Developer at Falkon Technologies</li>
+  <li>👀 Software Developer</li>
   <li>🌱 I’m currently focusing on increasing my knowledge on React Native applications.</li>
   <li>📫 How to reach me: melaniesigrid@protonmail.com</li>
 </ul>
@@ -30,9 +30,8 @@ const MELANIE = {
           },
           
   comingSoon: ['Ruby on Rails', 'Solidity'],
-  funFacts: ['I have 3+ years of remote work experience with devs 
-    from all over the world', 
-    'My tiny Shih-Tzu dog is ready to woof at the right offer']
+  funFacts: ['I have 5+ years of remote work experience with devs from all over the world', 
+    'My tiny poodle, Roko, is ready to woof at the right offer']
 }
 ```
 
@@ -80,7 +79,7 @@ const MELANIE = {
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 </p>
 
-<p>You can check out my portfolio <a href="https://melaniesigrid.github.io/portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="[https://melaniesigrid.github.io/portfolio/](https://melaniesigrid.github.io/EditorialPortfolio/)">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
 <img src="https://media.giphy.com/media/qUIQfddFeDBIPRw2cW/giphy.gif" width="150"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to get to know you better!</b> :)</em>
 
