@@ -4,6 +4,7 @@
   <li>👀 Software Developer</li>
   <li>🌱 I’m currently focusing on increasing my knowledge on Agentic AI and its powers.</li>
   <li>📫 How to reach me: melaniesigrid@protonmail.com</li>
+  <li>Use Protonmail yourself! Use my referral link so I can buy myself a coffee. :) https://pr.tn/ref/FV015GBQ</li>
 </ul>
 
 ## 🌐 Socials:
