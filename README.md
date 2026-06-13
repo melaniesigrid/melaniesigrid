@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/UBdm1xinbK65niyZ5i/giphy.gif" width="230">
 <ul>
   <li>👀 Software Developer</li>
-  <li>🌱 I’m currently focusing on increasing my knowledge on React Native applications.</li>
+  <li>🌱 I’m currently focusing on increasing my knowledge on Agentic AI and its powers.</li>
   <li>📫 How to reach me: melaniesigrid@protonmail.com</li>
 </ul>
 
