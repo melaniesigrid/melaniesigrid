@@ -3,8 +3,25 @@
 <ul>
   <li>👀 Software Developer</li>
   <li>🌱 I’m currently focusing on increasing my knowledge on Agentic AI and its powers.</li>
+  <li>🎓 You can find more of my research on <a href="[LOOPSCHOOL_URL](https://loopschool-two.vercel.app/)">Loopschool</a>, the course I am building for future Claude architects. It is currently in beta, so any advice or feedback will be warmly welcomed.</li>
   <li>📫 How to reach me: melaniesigrid@protonmail.com</li>
 </ul>
+
+## 🎓 Loopschool: from your first loop to certified
+
+<a href="LOOPSCHOOL_URL"><b>Loopschool BETA</b></a> is a start-to-finish course I designed and built for the Claude Certified Architect (Foundations) exam. It is where my agentic AI research turns into something other people can learn from.
+
+- **35 lessons across 7 modules:** an orientation, the 5 exam domains, and a finish module
+- **Read, See, Build, Check:** every lesson follows the same four beats, so you always know what comes next
+- **4 real portfolio projects:** a Support Desk Agent, a Team Claude Code Kit, a Document Extraction Pipeline, and a Research Crew. Every build step adds to one of them, so you finish with work you can show an employer
+- **Practice that tells you where you stand:** a mixed drill with per-domain scoring, an interactive agent loop simulator, and a plain-words glossary
+- **Plain language on purpose:** short sentences, terms defined on first use, hard ideas broken into small steps
+- **Kinetic typography throughout:** variable-font headlines that react to your pointer, scroll-triggered text, and a little confetti when you finish a domain
+- **No accounts, no tracking:** progress is saved in your browser
+
+Built as a static site with a small build script and automatic deploys through GitHub Actions.
+
+👉 <a href="[LOOPSCHOOL_URL](https://loopschool-two.vercel.app/)">Start the course (Beta)</a> · 
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melaniesigrid)  <a href="https://github.com/melaniesigrid"><img src="https://img.shields.io/github/followers/melaniesigrid?label=follow&style=social"></a>
@@ -90,5 +107,3 @@ const MELANIE = {
 <center>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </center>
-
-
